@@ -78,7 +78,7 @@ A full-stack web application for managing patient medical documents (PDFs). Buil
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sahil-vanarse/INI8
 cd ini8
 ```
 
