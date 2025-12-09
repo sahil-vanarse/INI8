@@ -299,13 +299,6 @@ For detailed design decisions, architecture, and scaling considerations, please 
 - Virus scanning
 - Audit logs
 
-## 📝 License
-
-This project is created as an assignment for Full Stack Developer Intern position.
-
-## 👨‍💻 Author
-
-Created with ❤️ for the Full Stack Developer Intern assignment
 
 ---
 
