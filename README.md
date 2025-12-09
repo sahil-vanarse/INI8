@@ -4,7 +4,7 @@ A full-stack web application for managing patient medical documents (PDFs). Buil
 
 # Video Demo
 
-https://drive.google.com/file/d/1a360s8yvX5sV8wmVb6DKqNVTU-2LKLBJ/view?usp=sharing
+[Supabase Dashboard](https://drive.google.com/file/d/1a360s8yvX5sV8wmVb6DKqNVTU-2LKLBJ/view?usp=sharing)
 
 ![Patient Portal](https://img.shields.io/badge/Status-Ready-success)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115.5-009688)
