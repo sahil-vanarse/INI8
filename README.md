@@ -86,6 +86,9 @@ cd ini8
 
 ```bash
 cd ini8-backend
+python -m venv env
+
+env\Scripts\activate
 
 # Install Python dependencies
 pip install -r requirements.txt
