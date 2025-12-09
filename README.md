@@ -4,7 +4,8 @@ A full-stack web application for managing patient medical documents (PDFs). Buil
 
 # Video Demo
 
-<iframe src="https://drive.google.com/file/d/1a360s8yvX5sV8wmVb6DKqNVTU-2LKLBJ/preview" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+https://github.com/user-attachments/assets/833f7ee8-963d-44ba-9108-a27567bbd8e7
 
 
 
